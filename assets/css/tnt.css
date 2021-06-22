@@ -1,0 +1,6 @@
+@import '@thombruce/tnt';
+
+@font-face {
+  font-family: 'Courier Prime Bold';
+  src: url('~assets/fonts/CourierPrimeBold.ttf') format('truetype');
+}
