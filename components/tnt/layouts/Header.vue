@@ -17,8 +17,12 @@ export default {
     return {
       items: [
         {
-          title: 'Home',
-          to: '/'
+          title: 'Screenplays',
+          to: '/screenplays'
+        },
+        {
+          title: 'Credits',
+          to: '/credits'
         }
       ]
     }

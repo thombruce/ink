@@ -11,6 +11,7 @@ export default {
 
     const article = await $content('screenplays', slug)
       .where({ draft: { $ne: true } })
+      .sortBy('date', 'desc')
       .fetch()
 
     if (article.redirect) {

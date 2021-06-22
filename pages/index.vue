@@ -12,9 +12,9 @@ export default {
       .fetch()
       .catch(() => {})
 
-    let articles = await $content('', { deep: true })
+    let articles = await $content('screenplays')
       .where({ $and: [{ draft: { $ne: true } }, { dir: { $ne: '/' } }, { redirect: { $type: 'undefined' } }] })
-      .sortBy('createdAt', 'desc')
+      .sortBy('date', 'desc')
       .fetch()
       .catch(() => {})
     
