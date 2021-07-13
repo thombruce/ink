@@ -1,7 +1,7 @@
 <template lang='pug'>
 header
   span.py-24
-    NuxtLink(to='/') Spilled Ink
+    NuxtLink(to='/') Ink
   div
     nav
       ul

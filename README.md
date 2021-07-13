@@ -1,4 +1,4 @@
-# Spilled Ink
+# Ink
 
 ## Build Setup
 
