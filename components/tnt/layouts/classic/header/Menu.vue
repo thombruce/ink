@@ -1,12 +1,10 @@
 <template lang='pug'>
-header
-  span.py-24
-    NuxtLink(to='/') Ink
-  .navbar
-    nav
-      NuxtLink.btn.btn-ghost(v-for='(item, i) in items' :key='i' :to='item.to')
+.navbar
+  nav
+    template(v-for='item in items')
+      NuxtLink.btn.btn-ghost(:key='item.to' :to='item.to')
         span {{ item.title }}
-    TntUIThemeToggle
+  TntUIThemeToggle
 </template>
 
 <script>
@@ -33,13 +31,7 @@ export default {
 </script>
 
 <style lang='postcss' scoped>
-header {
-  @apply flex flex-col justify-center py-5 px-4;
-  & > span:first-of-type {
-    @apply block w-min m-auto text-4xl sm:text-6xl md:text-7xl text-base-content font-poster;
-  }
-  & > div {
-    @apply flex justify-center;
-  }
+.navbar {
+  @apply flex justify-center;
 }
 </style>
