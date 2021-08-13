@@ -2,6 +2,7 @@
 title: Credits
 description: 'Packages and media used by Ink.'
 date: 2021-06-22T12:23:45Z
+showToC: false
 container: text-center
 ---
 
