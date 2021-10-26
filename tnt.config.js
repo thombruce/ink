@@ -1,6 +1,6 @@
 export default {
-  title: 'Ink',
+  title: 'Screenplays',
   description: 'My writing.',
-  url: 'https://ink.thombruce.com',
+  url: 'https://thombruce.github.io/screenplays',
   image: '/uploads/blog/typewriter.jpg'
 }
