@@ -5,6 +5,9 @@ import feed from './nuxt.feed.js'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/ink/'
+  },
 
   // We could... create and import a tnt.json file and utilise its values here... and elsewhere throughout the file.
   env: {
