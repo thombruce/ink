@@ -13,16 +13,8 @@ export default {
     return {
       items: [
         {
-          title: 'Blog',
-          to: '/blog'
-        },
-        {
           title: 'Screenplays',
           to: '/screenplays'
-        },
-        {
-          title: 'Credits',
-          to: '/credits'
         }
       ]
     }
