@@ -1,0 +1,82 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "items": [
+        {
+            "id": "https://ink.thombruce.com/screenplays/brightside-of-the-living-dead",
+            "url": "https://ink.thombruce.com/screenplays/brightside-of-the-living-dead",
+            "title": "Brightside of the Living Dead",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2012-01-04T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/to-be-wed",
+            "url": "https://ink.thombruce.com/screenplays/to-be-wed",
+            "title": "To Be Wed",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2011-10-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/incubation",
+            "url": "https://ink.thombruce.com/screenplays/incubation",
+            "title": "Incubation",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2011-05-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/last-thursday",
+            "url": "https://ink.thombruce.com/screenplays/last-thursday",
+            "title": "Last Thursday",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2010-12-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/a-silent-musical",
+            "url": "https://ink.thombruce.com/screenplays/a-silent-musical",
+            "title": "A Silent Musical",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2010-06-06T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/call-me",
+            "url": "https://ink.thombruce.com/screenplays/call-me",
+            "title": "Call Me",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2010-04-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/outsider",
+            "url": "https://ink.thombruce.com/screenplays/outsider",
+            "title": "Outsider",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2010-01-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/06665-387729",
+            "url": "https://ink.thombruce.com/screenplays/06665-387729",
+            "title": "06665 387729",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2009-12-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/sera",
+            "url": "https://ink.thombruce.com/screenplays/sera",
+            "title": "Sera",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2009-09-30T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/infinity",
+            "url": "https://ink.thombruce.com/screenplays/infinity",
+            "title": "Infinity",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2008-05-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://ink.thombruce.com/screenplays/thursday",
+            "url": "https://ink.thombruce.com/screenplays/thursday",
+            "title": "Thursday",
+            "image": "https://ink.thombruce.com/uploads/blog/typewriter.jpg",
+            "date_modified": "2008-01-06T00:00:00.000Z"
+        }
+    ]
+}
